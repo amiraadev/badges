@@ -1,1 +1,1 @@
-aaa
+const ch : string = "ggg";
